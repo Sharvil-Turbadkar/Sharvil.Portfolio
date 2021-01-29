@@ -20,6 +20,20 @@ We then use IAM roles for de-coupling the front end of the application(made usin
     </item>
     
     <item>
+      <title>Analyzing Sales for FudgeCorporation </title>
+      <link>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/chapter-3/</link>
+      <pubDate>Sat, 11 Apr 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/chapter-3/</guid>
+      <description>Analyzing Sale trends for FudgeCorporation Project Link Business Goals: Track Yearly Sales for Fudge Corporation.
+1)Create an Integrated, Subject-Oriented, Non-Volatile, Time-Variant Data Warehouse by integrating Fudgeflix and Fudgemart.
+2)Analyze the Sales of Fudge Corporation using a Business Intelligence Tool
+3)Make Business Recommendations to higher authorities for boosting Sales in the coming fiscal year.
+  Tools and Technologies T-SQL, SSIS, SSRS, SSAS, SQL Server, Power BI, Git, GitHub
+Process : 1)Data profiling to understand the business requirements of the stakeholders</description>
+    </item>
+    
+    <item>
       <title>Movie-Feedback-Analysis</title>
       <link>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/chapter-2/</link>
       <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
@@ -45,15 +59,6 @@ Business Goals:  Which attributes will affect the likelihood of watching a movie
       
       <guid>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/chapter-4/</guid>
       <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
-    </item>
-    
-    <item>
-      <title>Chapter III: Monsieur the Cardinal</title>
-      <link>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/chapter-3/</link>
-      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
-      
-      <guid>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/chapter-3/</guid>
-      <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
     </item>
     
     <item>

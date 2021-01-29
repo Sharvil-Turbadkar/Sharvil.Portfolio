@@ -17,6 +17,13 @@
   </url>
   
   <url>
+    <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/chapter-3/</loc>
+    <lastmod>2020-04-11T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/chapter-2/</loc>
     <lastmod>2020-04-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -47,13 +54,6 @@
   <url>
     <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/tags/</loc>
     <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/chapter-3/</loc>
-    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
