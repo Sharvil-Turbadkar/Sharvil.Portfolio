@@ -67,8 +67,8 @@ Business Goals:  Which attributes will affect the likelihood of watching a movie
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
       <guid>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/chapter-1/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
-The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
+      <description>Drug-Sentimental-Case-Study Analysis   Stakeholders: Drug Manufacturers Goals: 1)Assist drug manufacturers in making informed decisions 2)Performing Root Cause analysis on the drastic drop in drug ratings over the course of 10 years 3)Predicting patient conditions using multi-class classification(Naive Bayes and SVM) 4)Performing Sentimental analysis to extract subjective information in patient reviews and help build a generalized understanding the effectiveness of the drugs
+Python Packages: pandas, Numpy, sklearn, seaborn, wordcloud Approach : 1)Perform extensive exploratory data analysis which involves trimming white spaces, removing stop words, using Snowball stemmer, tokenizing, and vectorizing data after scraping drug reviews online</description>
     </item>
     
     <item>
