@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/chapter-6/</loc>
+    <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/ist615/</loc>
     <lastmod>2020-11-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -17,50 +17,36 @@
   </url>
   
   <url>
-    <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/chapter-1/</loc>
+    <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/ist736/</loc>
     <lastmod>2020-08-11T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/chapter-3/</loc>
+    <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/ist722/</loc>
     <lastmod>2020-04-11T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/chapter-2/</loc>
+    <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/ist707/</loc>
     <lastmod>2020-04-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/chapter-5/</loc>
+    <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/ist659/</loc>
+    <lastmod>2019-09-12T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/ist687/</loc>
     <lastmod>2017-04-13T11:15:58-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/post/chapter-4/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/tags/scene/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/tags/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -86,6 +72,12 @@
   
   <url>
     <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sharvil-turbadkar.github.io/Sharvil.Portfolio/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
